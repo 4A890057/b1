@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="個人資料"
+        android:id="@+id/itemUser"/>
+    <item android:title="申請列表"
+        android:id="@+id/itemApply"/>
+    <item android:title="歸還確認"
+        android:id="@+id/itemReturn"/>
+    <item android:title="登出"
+        android:id="@+id/itemLogout"/>
+</menu>
